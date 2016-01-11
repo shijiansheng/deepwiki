@@ -3,7 +3,7 @@
 	"site_description" : "Markdown Documents Showcase",
 	"copyright"        : "Powered by <a href=\"https://github.com/shijiansheng/deepwiki\" target=\"_blank\">http://shijiansheng.github.io/deepwiki/</a>.",
 	"theme"            : "default",
-	"docs_path"        : "deepwiki-docs-example",
+	"docs_path"        : "deepwiki-docs",
 	"home_route"       : "quick-start",
 	"display_chapter"  : false,
 	"display_index"    : false,
